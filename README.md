@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on interesting open-source projects<br>🤝 I’m looking for help with improving my coding skills<br>🌱 I’m currently learning Python, JavaScript & Git<br>💬 Ask me about programming, technology & student projects<br>⚡ Fun fact: I love turning random ideas into projects! 🚀
 
